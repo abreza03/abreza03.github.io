@@ -1,0 +1,96 @@
+#header {
+    font-family: Google Sans Flex, sans-serif;
+    font-size: 17px;
+    line-height: 1.6;
+    color: #f7f7f7;
+    text-align: center;
+}
+
+body {
+    background-color: #000;
+    text-color: #f7f7f7;
+    font-family: Google Sans Flex, sans-serif;
+    font-size: 17 px;
+    line-height: 1.6;
+}
+
+h1 {
+    font-family: prompt;
+    font-size: 5em;
+    font-weight: 300;
+    color: #d3d3d3
+}
+
+span {
+    font-weight: 500;
+    letter-spacing: 2px;
+    color: #f7f7f7;
+}
+
+.byline {
+    color: #919191;
+    font-size: 0.75em;
+    font-display: block;
+    margin-bottom: auto;
+}
+
+em {
+    color: #919191;
+    font-size: 1.75em;
+    font-display: block;
+    margin-bottom: auto;
+}
+
+.caption {
+    .85em;
+}
+
+#intro {
+    text-align:right;
+}
+
+#content {
+    text-align:center
+}
+
+.container {
+    width: 45%;
+    margin: auto;
+}
+
+.container-fluid {
+    width: 85%;
+    margin: auto;
+}
+
+.photo-grid {
+    background-color: #f7f7f7;
+    text-color: #000;
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
+
+.photo-grid em {
+    text-align: right;
+    font-weight: 300;
+    uppercase: true;
+    letter-spacing: 1px;
+}
+
+#conclusion {
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
+
+#footer {
+    text-align: center;
+}
+
+#footer link {
+    color: #f7f7f7
+}
+
+@media(min-width:550px){
+    
+}
+
