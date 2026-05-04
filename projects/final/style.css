@@ -1,0 +1,52 @@
+#topper{
+    background-color: #000000;
+    text-align: center;}
+
+h1{
+    font-family: "Roboto", sans-serif;
+    font-size: 30px;}
+
+h2{
+    font-size: 24px;
+    font-family: "Roboto", sans-serif;}
+
+.caption{
+    font-size: 14px;
+    text-align: center;
+    font-family: "Roboto", sans-serif;}
+
+#Crab5 {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;}
+
+#Willard {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;}
+
+#CoachGraph {
+     display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;}
+
+.center-video {
+    display:block;
+    margin: 0 auto;}
+
+#A2T {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;}
+
+body{
+    background-color: #000000;
+    color: #FFF7F8;
+    font-family: "Lora", serif;}
+
+@media(min-width:576px){
+    
+}
