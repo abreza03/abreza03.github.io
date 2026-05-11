@@ -25,17 +25,13 @@ h3{
     background-color: #292f36;
     color: #FFF7F8;
     margin-top: 10px;
+    margin-right:110px;
+    padding: 10px 20px;
     text-align:center;
     border-radius:12px}
 
 button:hover{
     background-color: #FFF7F8;}
-
-.button1{
-    margin-right: 113px}
-
-.button2{
-    margin-right:110px}
 
 h4{
     font-family: "Lora", serif;
@@ -54,3 +50,5 @@ body{
     color: #292f36;
     font-family: "Lora", serif;
     font-size: 24px;}
+
+@media(min-width:576px){}
