@@ -54,6 +54,10 @@ body{
     color: #FFF7F8;
     font-family: "Lora", serif;}
 
-@media(min-width:576px){
-    
-}
+footer{
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;}
+
+@media(min-width:576px){}
