@@ -1,9 +1,45 @@
-#header {
+.container-fluid {
     font-family: Google Sans Flex, sans-serif;
     font-size: 17px;
     line-height: 1.6;
     color: #f7f7f7;
     text-align: center;
+}
+
+h1 {
+    font-family: prompt;
+    font-size: 5em;
+    font-weight: 300;
+    color: #d3d3d3;
+}
+
+span {
+    font-weight: 500;
+    letter-spacing: 2px;
+    color: #f7f7f7;
+}
+
+.container-fluid-95% {
+    color: #919191;
+    font-size: 0.75em;
+    font-display: block;
+    margin-bottom: auto;
+}
+
+#intro em {
+    text-align: left;
+    color: #919191;
+    font-size: 0.75em;
+    font-display: block;
+    margin-bottom: auto;
+}
+
+.byline {
+    text-align: left;
+    color: #919191;
+    font-size: 0.75em;
+    font-display: block;
+    margin-bottom: auto;
 }
 
 body {
@@ -14,24 +50,12 @@ body {
     line-height: 1.6;
 }
 
-h1 {
-    font-family: prompt;
-    font-size: 5em;
-    font-weight: 300;
-    color: #d3d3d3
-}
-
-span {
-    font-weight: 500;
-    letter-spacing: 2px;
+#main em {
     color: #f7f7f7;
 }
 
-.byline {
-    color: #919191;
-    font-size: 0.75em;
-    font-display: block;
-    margin-bottom: auto;
+.col-md-3 {
+    text-align: left;
 }
 
 em {
@@ -41,21 +65,59 @@ em {
     margin-bottom: auto;
 }
 
-.caption {
-    .85em;
+.container-45% {
+    text-align: center;
+    color: #f7f7f7;
 }
 
-#intro {
-    text-align:right;
+.col-md-4 {
+    text-align: center;
+}
+
+.col-md-4 em {
+    color: #919191;
+    font-size: 0.75em;
+    font-display: block;
+    margin-bottom: auto;
+}
+
+.img-fluid em{
+    color: #919191;
+    font-size: 0.75em;
+    font-display: block;
+    margin-bottom: auto;
+}
+
+.col-md-6 {
+    text-align: center;
+}
+
+.col-md-6 em {
+    color: #919191;
+    font-size: 0.75em;
+    font-display: block;
+    margin-bottom: auto;
+}
+
+.caption {
+    font-size: 0.85em;
 }
 
 #content {
-    text-align:center
+    text-align:center;
 }
 
 .container {
     width: 45%;
     margin: auto;
+}
+
+.container em {
+    text-align: left;
+    color: #919191;
+    font-size: 0.75em;
+    font-display: block;
+    margin-bottom: auto;
 }
 
 .container-fluid {
@@ -73,8 +135,13 @@ em {
 .photo-grid em {
     text-align: right;
     font-weight: 300;
-    uppercase: true;
+    text-transform: uppercase;
     letter-spacing: 1px;
+}
+
+.photo-grid p {
+    text-align: center;
+    font-size: 0.85em;
 }
 
 #conclusion {
@@ -87,10 +154,9 @@ em {
 }
 
 #footer link {
-    color: #f7f7f7
+    color: #f7f7f7;
 }
 
 @media(min-width:550px){
-    
-}
+    }
 
